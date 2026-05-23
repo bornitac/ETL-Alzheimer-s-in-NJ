@@ -1,5 +1,4 @@
-# The purpose of this project is to see the trend of 
-# Alzheimer's Deaths in NJ to see if it increased or not
+# The purpose of this project is to see the trend of Alzheimer's Deaths in NJ to see if it increased or not
 
 # Extract: Read data from data.gov 
 import pandas as pd
