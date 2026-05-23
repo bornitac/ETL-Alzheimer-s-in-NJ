@@ -44,11 +44,11 @@ This project follows a full ETL workflow:
    ```bash
    git clone https://github.com/bornitac/ETL-Alzheimer-s-in-NJ
    ```
-2. Download `Leading_Causes_of_Death_US.csv` from the [CDC / NCHS via data.gov](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states) and place it in the same folder as `final.py`
+2. Download `Leading_Causes_of_Death_US.csv` from the [CDC / NCHS via data.gov](https://catalog.data.gov/dataset/nchs-leading-causes-of-death-united-states) and place it in the same folder as `ETL_AlzheimersinNJ.py`
 
 3. Run the script:
    ```bash
-   python final.py
+   python "ETL_Alzheimer'sinNJ.py"
    ```
 
 ---
