@@ -48,7 +48,7 @@ This project follows a full ETL workflow:
 
 3. Run the script:
    ```bash
-   python "ETL_Alzheimer'sinNJ.py"
+  python "ETL_AlzheimersinNJ.py"
    ```
 
 ---
