@@ -35,9 +35,9 @@ This project follows a full ETL workflow:
 ### Prerequisites
 - Python 3.x
 - Install dependencies:
-  ```bash
-  pip install pandas matplotlib
-  ```
+   ```bash
+   pip install pandas matplotlib
+   ```
 
 ### Installation
 1. Clone the repository:
@@ -48,7 +48,7 @@ This project follows a full ETL workflow:
 
 3. Run the script:
    ```bash
-  python "ETL_AlzheimersinNJ.py"
+   python ETL_AlzheimersinNJ.py
    ```
 
 ---
